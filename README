@@ -1,0 +1,14 @@
+AWS Lambda C - a C runtime for lambda
+=====================================
+
+* This is a custom runtime for AWS Lambda.
+* I am using this for my own personal projects.
+* Do not use this in a production system please.
+
+LICENSE
+-------
+
+This software is made available under the terms of the MIT License
+See the LICENSE file for details.
+
+
